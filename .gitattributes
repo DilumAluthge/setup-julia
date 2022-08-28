@@ -1,2 +1,0 @@
-# Hide generated JS code from diffs and language stats
-lib/*.js linguist-generated=true
